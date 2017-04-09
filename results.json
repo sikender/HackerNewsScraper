@@ -1,0 +1,152 @@
+[
+  {
+    "rank": "1.",
+    "title": "OS/2 2.0, Summer ’91 Edition",
+    "link": "http://www.os2museum.com/wp/os2-2-0-summer-91-edition/"
+  },
+  {
+    "rank": "2.",
+    "title": "Programming ARM Cortex-M Microcontrollers with Rust",
+    "link": "https://github.com/japaric/copper"
+  },
+  {
+    "rank": "3.",
+    "title": "A quick look at the Ikea Trådfri lighting platform",
+    "link": "https://mjg59.dreamwidth.org/47803.html"
+  },
+  {
+    "rank": "4.",
+    "title": "Does it scale? Who cares (2011)",
+    "link": "https://jacquesmattheij.com/does-it-scale-who-cares"
+  },
+  {
+    "rank": "5.",
+    "title": "Best Practices for Applying Deep Learning to Novel Applications",
+    "link": "https://arxiv.org/abs/1704.01568"
+  },
+  {
+    "rank": "6.",
+    "title": "Ask HN: What are pros and cons of PostgreSQL and MySQL?",
+    "link": "https://news.ycombinator.com/item?id=14070930"
+  },
+  {
+    "rank": "7.",
+    "title": "3D support for X11 guests",
+    "link": "https://www.virtualbox.org/wiki/X11Guest3D"
+  },
+  {
+    "rank": "8.",
+    "title": "Identifying HTTPS-Protected Netflix Videos in Real Time [pdf]",
+    "link": "http://www.mjkranch.com/docs/CODASPY17_Kranch_Reed_IdentifyingHTTPSNetflix.pdf"
+  },
+  {
+    "rank": "9.",
+    "title": "Computer Programming Using GNU Smalltalk (2009)",
+    "link": "http://www.canol.info/books/computer_programming_using_gnu_smalltalk/"
+  },
+  {
+    "rank": "10.",
+    "title": "Secrets of the Glasgow Haskell Compiler Inliner (1999) [pdf]",
+    "link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2002/07/inline.pdf"
+  },
+  {
+    "rank": "11.",
+    "title": "Performance of Solaris' ZFS LZ4 Compression",
+    "link": "http://jomasoftmarcel.blogspot.com/2017/04/is-there-performance-impact-when-using.html"
+  },
+  {
+    "rank": "12.",
+    "title": "Empirical Study of the Anatomy of Modern SAT Solvers (2011) [pdf]",
+    "link": "http://www.cs.toronto.edu/~fbacchus/csc2512/Lectures/2013Readings/Skallah_Empirical_Study_SAT_Solvers.pdf"
+  },
+  {
+    "rank": "13.",
+    "title": "The new contribution workflow for GNOME",
+    "link": "https://csorianognome.wordpress.com/2017/04/07/the-new-contribution-workflow-for-gnome/"
+  },
+  {
+    "rank": "14.",
+    "title": "Why We switched from Python To Go",
+    "link": "https://medium.com/@tigranbs/5-reasons-why-we-switched-from-python-to-go-4414d5f42690"
+  },
+  {
+    "rank": "15.",
+    "title": "Airlines Make More Money Selling Miles Than Seats",
+    "link": "https://www.bloomberg.com/news/articles/2017-03-31/airlines-make-more-money-selling-miles-than-seats"
+  },
+  {
+    "rank": "16.",
+    "title": "The Muse (YC W12) Is Hiring a Lead DevOps Engineer",
+    "link": "https://www.themuse.com/jobs/themuse/lead-devops-engineer"
+  },
+  {
+    "rank": "17.",
+    "title": "Unleashing use-before-initialization vulnerabilities in the Linux kernel [pdf]",
+    "link": "http://www.cc.gatech.edu/~klu38/publications/ubi-ndss17.pdf"
+  },
+  {
+    "rank": "18.",
+    "title": "Cayley – An open-source graph database",
+    "link": "https://github.com/cayleygraph/cayley"
+  },
+  {
+    "rank": "19.",
+    "title": "After Moving Servers to Russia, LiveJournal Bans ‘Political Solicitation’",
+    "link": "https://advox.globalvoices.org/2017/04/04/after-moving-servers-to-russia-livejournal-bans-political-solicitation/"
+  },
+  {
+    "rank": "20.",
+    "title": "Wire messenger server code open-sourced",
+    "link": "https://github.com/wireapp/wire-server"
+  },
+  {
+    "rank": "21.",
+    "title": "Uber banned in all of Italy",
+    "link": "http://mashable.com/2017/04/07/uber-blocked-italy/"
+  },
+  {
+    "rank": "22.",
+    "title": "Snowden: NSA just lost control of its Top Secret arsenal of digital weapons",
+    "link": "https://twitter.com/Snowden/status/850766326943690752"
+  },
+  {
+    "rank": "23.",
+    "title": "Saltpack – A modern crypto messaging format",
+    "link": "https://saltpack.org/"
+  },
+  {
+    "rank": "24.",
+    "title": "Color Night Vision (2016) [video]",
+    "link": "http://kottke.org/17/04/incredible-low-light-camera-turns-night-into-day"
+  },
+  {
+    "rank": "25.",
+    "title": "The race to destroy space garbage",
+    "link": "http://www.bbc.co.uk/news/world-us-canada-39521406#"
+  },
+  {
+    "rank": "26.",
+    "title": "New Features Coming in PostgreSQL 10",
+    "link": "http://rhaas.blogspot.com/2017/04/new-features-coming-in-postgresql-10.html"
+  },
+  {
+    "rank": "27.",
+    "title": "Erlang Performance Lab",
+    "link": "http://www.erlang.pl/"
+  },
+  {
+    "rank": "28.",
+    "title": "How do you make programmers work 60-80 hours per week?",
+    "link": "http://brianknapp.me/programmer-60-80-hour-weeks/"
+  },
+  {
+    "rank": "29.",
+    "title": "The reference D compiler is now open source",
+    "link": "https://forum.dlang.org/post/oc8acc$1ei9$1@digitalmars.com"
+  },
+  {
+    "rank": "30.",
+    "title": "A Baby with 3 Genetic Parents Seems Healthy, but Questions Remain",
+    "link": "http://www.npr.org/sections/health-shots/2017/04/08/523020895/a-baby-with-3-genetic-parents-seems-healthy-but-questions-remain"
+  }
+]
